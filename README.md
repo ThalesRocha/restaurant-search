@@ -10,7 +10,7 @@ I made some assumptions based on the assessment description:
   * distance: 1 to 10
   * rating: 1 to 5
   * price: 10 to 50
-We will always return the top five results if it's available and we will sort them by distance first, then high rating and last but not least lower price.
+* We will always return the top five results if it's available and we will sort them by distance first, then high rating and last but not least lower price.
 ---
 # How to Run
 
